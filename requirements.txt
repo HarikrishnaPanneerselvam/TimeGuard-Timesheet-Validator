@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+pandas
+streamlit
+python-multipart
+pytest
