@@ -79,6 +79,14 @@ uvicorn backend.main:app --reload
 ```bash
 streamlit run frontend/app.py
 ```
+<img width="1490" height="288" alt="image" src="https://github.com/user-attachments/assets/d929573b-b308-440e-a52a-9ae51e1db19c" />
+
+<img width="1469" height="481" alt="image" src="https://github.com/user-attachments/assets/d703f35c-368c-4cc7-b8c3-a545c221ad3e" />
+
+<img width="1454" height="128" alt="image" src="https://github.com/user-attachments/assets/3f89f535-6e1a-4ad4-879c-f1c3fff4264b" />
+
+<img width="1465" height="475" alt="image" src="https://github.com/user-attachments/assets/ce629622-0b27-4e7d-9f52-972187b89378" />
+
 
 > Access the Dashboard at: [http://localhost:8501](http://localhost:8501)
 
